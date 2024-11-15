@@ -1,0 +1,15 @@
+:root {
+   --username: rgba(12, 180, 241, 1);
+   --font: rgba(172, 172, 172, 1);
+   --names-tablet: rgba(158, 170, 180, 1);
+
+   --background: rgba(247, 247, 247, 1);
+
+   --button-calm-gray: rgba(224, 224, 224, 1);
+   --button-calm-gray-text: rgba(130, 130, 130, 1);
+
+   --background-input: rgba(236, 239, 240, 1);
+
+   --transform-animation-scale: scale(1.015);
+   --transition-animation-scale: 0.15s ease;
+}
